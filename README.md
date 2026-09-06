@@ -3,10 +3,10 @@
 Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuliah **Metode Numerik** menggunakan **GNU Octave**.
 
 ## 👤 Identitas Praktikan
-* **Nama**: Nisa Rahmawati
-* **NIM**: L0325032
+* **Nama**         : Nisa Rahmawati
+* **NIM**          : L0325032
 * **Program Studi**: Informatika
-* **Instansi**: Universitas Sebelas Maret
+* **Instansi**     : Universitas Sebelas Maret
 
 ---
 
