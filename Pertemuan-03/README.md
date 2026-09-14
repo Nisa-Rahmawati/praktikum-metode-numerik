@@ -1,10 +1,10 @@
 # Pertemuan 03 - Pengenalan Octave 2
 
-📌 **Ringkasan**
+##📌 **Ringkasan**##
 
 Pertemuan ini membahas modul Pengenalan MATLAB/Octave 2, meliputi struktur perulangan (*looping*), kalkulus dasar (diferensial dan integral), pembuatan fungsi (*function*), *anonymous function*, serta visualisasi grafik 2D dan 3D.
 
-📁 **Berkas Kodingan**
+##📁 **Berkas Kodingan**##
 
 * `looping.m` : Skrip latihan perulangan (`for`, `while`, `continue`, `break`).
 * `kalkulus.m` : Skrip latihan kalkulus diferensial dan integral.
@@ -12,7 +12,7 @@ Pertemuan ini membahas modul Pengenalan MATLAB/Octave 2, meliputi struktur perul
 * `anonymous_func.m` : Skrip latihan penggunaan *anonymous function*.
 * `grafik.m` : Skrip latihan pembuatan grafik 2D dan 3D.
 
-💡 **Cara Menjalankan**
+##💡 **Cara Menjalankan**##
 
 Buka Octave, arahkan ke folder ini, lalu ketikkan nama skrip yang ingin dijalankan pada Command Window:
 
