@@ -4,7 +4,7 @@
 
 Pertemuan ini membahas modul Pengenalan MATLAB/Octave 2, meliputi struktur perulangan (*looping*), kalkulus dasar (diferensial dan integral), pembuatan fungsi (*function*), *anonymous function*, serta visualisasi grafik 2D dan 3D.
 
-## 📁 Berkas Kodingan
+## 📁 Berkas Codingan
 
 * `looping.m` : Skrip latihan perulangan (`for`, `while`, `continue`, `break`).
 * `kalkulus.m` : Skrip latihan kalkulus diferensial dan integral.
