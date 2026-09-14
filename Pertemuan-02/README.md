@@ -3,7 +3,7 @@
 ## 📌 Ringkasan
 Pertemuan ini membahas sintaks dasar GNU Octave, penerimaan input/output, serta struktur percabangan/pengambilan keputusan (decision structure).
 
-## 📁 Berkas Kodingan
+## 📁 Berkas Codingan
 * `InputOutput.m` : Skrip latihan penerimaan input dan menampilkan output.
 * `StrukturDecision.m` : Skrip latihan struktur percabangan/kondisional (if / else / switch).
 
