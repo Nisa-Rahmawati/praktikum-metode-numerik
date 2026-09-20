@@ -17,6 +17,7 @@ Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuli
 | **01** | Tugas Instalasi Octave | [`Pertemuan-01`](./Pertemuan-01) | Selesai |
 | **02** | Tugas Pengenalan Octave | [`Pertemuan-02`](./Pertemuan-02) | Selesai |
 | **03** | Tugas Pengenalan Octave 2| [`Pertemuan-03`](./Pertemuan-03) | Selesai |
+| **04** | Tugas Galat/Error | [`Pertemuan-04`](./Pertemuan-04) | Selesai |
 
 
 ---
