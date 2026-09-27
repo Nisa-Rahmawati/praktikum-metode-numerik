@@ -18,6 +18,7 @@ Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuli
 | **02** | Tugas Pengenalan Octave | [`Pertemuan-02`](./Pertemuan-02) | Selesai |
 | **03** | Tugas Pengenalan Octave 2| [`Pertemuan-03`](./Pertemuan-03) | Selesai |
 | **04** | Tugas Galat/Error | [`Pertemuan-04`](./Pertemuan-04) | Selesai |
+| **05** | Tugas Sistem Persamaan Linear | [`Pertemuan-05`](./Pertemuan-05) | Selesai |
 
 
 ---
