@@ -20,6 +20,7 @@ Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuli
 | **04** | Tugas Galat/Error | [`Pertemuan-04`](./Pertemuan-04) | Selesai |
 | **05** | Tugas Sistem Persamaan Linear | [`Pertemuan-05`](./Pertemuan-05) | Selesai |
 | **06** | Tugas Sistem Persamaan Linear 2 | [`Pertemuan-06`](./Pertemuan-06) | Selesai |
+| **07** | Tugas Sistem Persamaan Non-Linear 1 | [`Pertemuan-07`](./Pertemuan-07) | Selesai |
 
 
 ---
